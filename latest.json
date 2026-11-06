@@ -1,0 +1,42 @@
+{
+  "version": "2.7.0",
+  "date": "2026-11-06",
+  "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-2.5.5.wwupdate",
+  "size": 98634202,
+  "sha256": "6ce6b57f417e289956603368842b96be4e7adec2aee8363165bceab451be9054",
+  "pkg": {
+    "version": "2.7.0",
+    "size": 110676647,
+    "sha256": "1d98a9e60901ba42a17a53f557fc9b62c18b5ab98ec82c23539155d20c0f76b4",
+    "parts": [
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-2.7.0.wwupdate.001",
+        "size": 47185920,
+        "sha256": "abd6c2b4cc1b804fd3f38257b0635c6da6f0e910fe9ba5c0c33540c97922646d"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-2.7.0.wwupdate.002",
+        "size": 47185920,
+        "sha256": "6e2db5252d63b70ec0799cb3b9e91fc7e70a40a4d414dc26706e90b6c9f09ef5"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-2.7.0.wwupdate.003",
+        "size": 16304807,
+        "sha256": "ac636961c7354fbc18293dea1d39ff09e9a8826efa5f150454e8e52de7d34726"
+      }
+    ]
+  },
+  "starter": "https://github.com/Dannywiseman123/WiseWare-Studio-Releases/raw/main/WiseWare-Studio-Starter.exe",
+  "notes": [
+    "Every 2026 pack now has four colour themes. Pick one in Customise, Look. The alerts, chat, emote shower and recent events follow your choice.",
+    "A sixth scene in every new pack: Offline, for when you are not live. Garage closed, game saved, tape ejected and more.",
+    "Your socials (YouTube, TikTok, Instagram, X, Kick, Discord, Bluesky, Twitch) on Starting Soon, BRB, Ending and Offline. Add them in Customise, Details.",
+    "Big moments fill the screen: raids, 5 or more gifted subs, 1,000 bits or more and tips of 20 or more. Turn it off on the Alerts page.",
+    "A better Store: browse by category (Cosy, Cute, Sport, Retro, Sci-fi, Horror, Tabletop, Loud and Bright, Minimal), filter by what you stream and by light or dark, search, and sort. Every card shows its colour themes.",
+    "Chat box, goal bar, emote shower and recent events styles now come with the packs you own.",
+    "Sticker Bomb is now called Scrapbook Pop.",
+    "New on the Studio page: an Emote shower that rains your chat emotes on screen in your pack style, and a Recent events list.",
+    "New alert sounds: every pack has its own tune, with its own gift and tip sounds too.",
+    "A sharper look all round: a lapping car on Pit Wall, dice that re-roll on Game Night, a walking hero on Pocket Quest, a volume bar on Rewind, a satellite on Mission Control, something in the hallway on Night Shift, stickers that boing, popping sound effects on Comic Strip and a glass shine on Clean Slate."
+  ]
+}
