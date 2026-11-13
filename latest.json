@@ -1,0 +1,33 @@
+{
+  "version": "3.0.3",
+  "date": "2026-11-13",
+  "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-2.5.5.wwupdate",
+  "size": 98634202,
+  "sha256": "6ce6b57f417e289956603368842b96be4e7adec2aee8363165bceab451be9054",
+  "pkg": {
+    "version": "3.0.3",
+    "size": 129686995,
+    "sha256": "2ad790783cccbb74292bc93d7a4aa4f40ac62d80e9d5c71420be45da003486d8",
+    "parts": [
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-3.0.3.wwupdate.001",
+        "size": 47185920,
+        "sha256": "a8e026e761a60a8823dd84a4a51e9a313be2c9b27f63ebcc3849fed6d49c8d5f"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-3.0.3.wwupdate.002",
+        "size": 47185920,
+        "sha256": "81145139a62f33d793a59afd2b30d3a4f9d5f338f933ede4371913c007d923cf"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-3.0.3.wwupdate.003",
+        "size": 35315155,
+        "sha256": "fae462004a32f8fd4a5361ce7f9ae6281ec500b62e6da463f896fc37085687f4"
+      }
+    ]
+  },
+  "starter": "https://github.com/Dannywiseman123/WiseWare-Studio-Releases/raw/main/WiseWare-Studio-Starter.exe",
+  "notes": [
+    "Alerts now always match the colour theme you pick for a scene pack. Change the theme in Customise and your alerts change with it straight away, in OBS and in every preview, with nothing to reinstall."
+  ]
+}
