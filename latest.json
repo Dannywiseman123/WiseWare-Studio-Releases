@@ -1,0 +1,35 @@
+{
+  "version": "3.2.2",
+  "date": "2026-11-18",
+  "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-2.5.5.wwupdate",
+  "size": 98634202,
+  "sha256": "6ce6b57f417e289956603368842b96be4e7adec2aee8363165bceab451be9054",
+  "pkg": {
+    "version": "3.2.2",
+    "size": 129919718,
+    "sha256": "aa38f68490784c002bf71492f74d3bf336c17229d1f4299d4f78695653fe5385",
+    "parts": [
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-3.2.2.wwupdate.001",
+        "size": 47185920,
+        "sha256": "88c5cfae138ae993d7c067dc48a7114309a1d7badaacab8f590919246cd3afcc"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-3.2.2.wwupdate.002",
+        "size": 47185920,
+        "sha256": "745945ce02fe4bdbc9a6cb21a851d3e21e9b3dc68624a9fd14595ea08588da0a"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Dannywiseman123/WiseWare-Studio-Releases/main/WiseWare-Studio-3.2.2.wwupdate.003",
+        "size": 35547878,
+        "sha256": "c89cbedaad9e67ec36f149c9c1e7a46da141d65f0cc7f499976695f326268961"
+      }
+    ]
+  },
+  "starter": "https://github.com/Dannywiseman123/WiseWare-Studio-Releases/raw/main/WiseWare-Studio-Starter.exe",
+  "notes": [
+    "The call scene (Squad Call, Group Call, Party Call, Tag Team, The Panel) now fits 2, 3 or 4 Discord guests. Pick how many in Customise, Details, under Guests on the call scene.",
+    "3 guests: a 2 by 2 grid with you top left. 4 guests: three across the top with you in the middle, and two underneath. Every camera keeps its own name plate.",
+    "Name guests 3 and 4 in Customise, Details. Press Save and put in OBS and the extra Guest 3 (Discord) and Guest 4 (Discord) window captures are added for you."
+  ]
+}
